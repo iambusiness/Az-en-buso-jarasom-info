@@ -1,0 +1,9 @@
+.kep1{ display: block;
+margin-left: auto;
+margin-right: auto;}
+.acimem{color:brown;}
+.kep2{ float: left;
+margin-right: 20px;}
+body{ background-color: rgb(221, 213, 164);}
+.kep3{float: right;
+margin-left: 20px;}
